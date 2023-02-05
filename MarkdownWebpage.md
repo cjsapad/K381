@@ -4,6 +4,6 @@
 - To your right is the Cheshire Cat ->
 ```
 
-<a href="/K381/cheshire/Cheshire.jpg">
+<a href="/cheshire/Cheshire.jpg">
   <img align="right" src="https://www.alice-in-wonderland.net/wp-content/uploads/cheshire-cat-4.jpg">
 </a>
