@@ -10,8 +10,8 @@
 
 <h3 align="left"> We're <i>all</i> <sub>mad</sub> here </h3>
 
-<a href="https://github.com/cjsapad/K381/blob/main/newtext.md">
-  <h4>Click here to read a <i>different</i> document</h4>
-</a>
+<h4><a href="https://github.com/cjsapad/K381/blob/main/newtext.md">
+  Click here to read a <i>different</i> document
+</a></h4>
 
 <p>V&#775;O<sub>2</sub> </p>
